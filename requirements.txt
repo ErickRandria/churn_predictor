@@ -8,3 +8,4 @@ jupyterlab
 xgboost
 matplotlib
 seaborn
+gunicorn
