@@ -6,3 +6,5 @@ joblib
 flask
 jupyterlab
 xgboost
+matplotlib
+seaborn
